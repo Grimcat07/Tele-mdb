@@ -1,5 +1,7 @@
+```markdown
 # Tele-mdb
 Search for movies and series using a telegram bot 
+
 # Movie Info Telegram Bot
 
 This is a Telegram bot that allows users to search for movie and TV series information, including details like the cast, reviews, plot, and posters. The bot fetches data from the OMDB API.
@@ -19,14 +21,6 @@ Before you begin, ensure you have met the following requirements:
 - You have a Telegram account.
 - You have a bot token from the [Telegram BotFather](https://core.telegram.org/bots#6-botfather).
 - You have an API key from [OMDB API](http://www.omdbapi.com/apikey.aspx).
-
-## Installation
-
-1. **Clone the repository:**
-
-   ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
 
 ## Installation
 
@@ -72,7 +66,7 @@ Before you begin, ensure you have met the following requirements:
 - `.gitignore`: Specifies files and directories to be ignored by Git.
 - `README.md`: This file, providing an overview and instructions for the project.
 
-# Contributing
+## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
