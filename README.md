@@ -1,4 +1,3 @@
-```markdown
 # Tele-mdb
 Search for movies and series using a telegram bot 
 
@@ -84,4 +83,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 This project is created purely for fun and learning purposes. No further development or maintenance is planned.
 
 Replace `"yourusername"`, `"your-repo-name"`, `"your_telegram_bot_token"`, and `"your_omdb_api_key"` with your actual GitHub username, repository name, and API tokens.
-```
